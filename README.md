@@ -80,7 +80,7 @@
 
   ## Credits
   
-  Yes
+  I would like to thank my instructor Andrew Layendecker and my tutor Dru Sanchez for their contributions to this project. 
 
   
   ## License
