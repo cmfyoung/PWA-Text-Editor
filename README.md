@@ -68,7 +68,9 @@
   
   ## Usage
   
-  Insert Here 
+![Screen Shot 2024-01-30 at 8 39 51 PM](https://github.com/cmfyoung/PWA-Text-Editor/assets/150183426/7360283e-0542-478c-af75-b3bd567ff3ca)
+![Screen Shot 2024-01-30 at 8 44 22 PM](https://github.com/cmfyoung/PWA-Text-Editor/assets/150183426/5b9858f4-02d3-4880-98c6-b5f63c2b0fbd)
+
 
 
   ## Tests
